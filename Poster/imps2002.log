@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  24 JUN 2022 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  24 JUN 2022 18:08
 entering extended mode
 **./imps2002.tex
 (imps2002.tex
@@ -1973,10 +1973,11 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
 LaTeX Font Info:    Calculating math sizes for size <21.2> on input line 341.
-File: img/unipd.png Graphic file (type png)
-<use img/unipd.png>
-Package pdftex.def Info: img/unipd.png  used on input line 341.
-(pdftex.def)             Requested size: 142.26378pt x 143.1649pt.
+<img/qr.png, id=40, 301.125pt x 432.61626pt>
+File: img/qr.png Graphic file (type png)
+<use img/qr.png>
+Package pdftex.def Info: img/qr.png  used on input line 341.
+(pdftex.def)             Requested size: 128.03653pt x 183.9486pt.
 LaTeX Font Info:    Calculating math sizes for size <17.66> on input line 341.
 
 
@@ -2013,7 +2014,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <8.83> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 341.
 
 
-<img/bs.pdf, id=44, 1011.78pt x 614.295pt>
+<img/bs.pdf, id=46, 1011.78pt x 614.295pt>
 File: img/bs.pdf Graphic file (type pdf)
 <use img/bs.pdf>
 Package pdftex.def Info: img/bs.pdf  used on input line 341.
@@ -2035,12 +2036,12 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <7.36499> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 341.
 
 
-<img/iifs.pdf, id=45, 1011.78pt x 614.295pt>
+<img/iifs.pdf, id=47, 1011.78pt x 614.295pt>
 File: img/iifs.pdf Graphic file (type pdf)
 <use img/iifs.pdf>
 Package pdftex.def Info: img/iifs.pdf  used on input line 341.
 (pdftex.def)             Requested size: 330.71608pt x 200.79643pt.
-<img/tif.pdf, id=46, 1011.78pt x 614.295pt>
+<img/tif.pdf, id=48, 1011.78pt x 614.295pt>
 File: img/tif.pdf Graphic file (type pdf)
 <use img/tif.pdf>
 Package pdftex.def Info: img/tif.pdf  used on input line 341.
@@ -2053,17 +2054,17 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 (Font)              using `OT1/cmss/b/it' instead on input line 341.
 
-<img/info.pdf, id=51, 1011.78pt x 614.295pt>
+<img/info.pdf, id=53, 1011.78pt x 614.295pt>
 File: img/info.pdf Graphic file (type pdf)
 <use img/info.pdf>
 Package pdftex.def Info: img/info.pdf  used on input line 341.
 (pdftex.def)             Requested size: 734.92963pt x 446.21013pt.
-<img/infoDetails.pdf, id=52, 1011.78pt x 614.295pt>
+<img/infoDetails.pdf, id=54, 1011.78pt x 614.295pt>
 File: img/infoDetails.pdf Graphic file (type pdf)
 <use img/infoDetails.pdf>
 Package pdftex.def Info: img/infoDetails.pdf  used on input line 341.
 (pdftex.def)             Requested size: 734.92963pt x 446.21013pt.
-<img/BIAS.pdf, id=53, 1011.78pt x 614.295pt>
+<img/BIAS.pdf, id=55, 1011.78pt x 614.295pt>
 File: img/BIAS.pdf Graphic file (type pdf)
 <use img/BIAS.pdf>
 Package pdftex.def Info: img/BIAS.pdf  used on input line 341.
@@ -2072,7 +2073,7 @@ Package pdftex.def Info: img/BIAS.pdf  used on input line 341.
 
 {C:/Users/huawei/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/bs.pdf> 
 <./img/iifs.pdf> <./img/tif.pdf> <./img/info.pdf> <./img/infoDetails.pdf> <./im
-g/BIAS.pdf> <./img/unipd.png>]
+g/BIAS.pdf> <./img/unipd.png> <./img/qr.png>]
 \tf@nav=\write6
 \openout6 = `imps2002.nav'.
 
@@ -2091,10 +2092,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27724 strings out of 480236
- 584019 string characters out of 2880084
- 1152099 words of memory out of 3000000
- 43593 multiletter control sequences out of 15000+200000
+ 27730 strings out of 480236
+ 584094 string characters out of 2880084
+ 1152151 words of memory out of 3000000
+ 43598 multiletter control sequences out of 15000+200000
  563606 words of font info for 129 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,17n,122p,460b,1284s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2110,9 +2111,9 @@ ei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi17.pfb><C:
 10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmtt12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/symbols/msam10.pfb>
-Output written on imps2002.pdf (1 page, 548404 bytes).
+Output written on imps2002.pdf (1 page, 571903 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
