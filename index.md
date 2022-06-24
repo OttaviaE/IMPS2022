@@ -9,7 +9,7 @@ This folder contains the LaTeX code for rendering the poster, a basic R script s
 
 Here you can find: 
 
-- Poster Pauci sed moni: [PDF](Poster/imps2022.pdf), [tex](Poster/imps2022.pdf). (The images are stored in the [img](https://github.com/OttaviaE/IMPS2022/tree/main/Poster/img) folder)
+- Poster Pauci sed moni: [PDF](Poster/imps2002.pdf), [tex](Poster/imps2002.tex). (The images are stored in the [img](https://github.com/OttaviaE/IMPS2022/tree/main/Poster/img) folder)
 - R code: All R code are in the [R](https://github.com/OttaviaE/IMPS2022/tree/main/R) folder
 - Simulation code [R](R/Less-Is-More-Commented-R-Script.R)
 - Graphs code [R](R/graphs.R)
