@@ -2,6 +2,7 @@
 \mode<presentation>
 {
 	\usetheme{boxes}
+	\usefonttheme{structuresmallcapsserif}
 }
 
 \usepackage[orientation=portrait,size=a1,scale=1,debug]{beamerposter}
@@ -53,6 +54,8 @@
 \definecolor{magenta}{RGB}{255,0,255}
 \definecolor{seagreen}{RGB}{75, 155, 110}
 
+\definecolor{MyBackground}{rgb}{250, 250, 250}
+\setbeamercolor{background canvas}{bg=MyBackground}
 \setbeamercolor{frametitle}{fg=template, bg=white}
 \setbeamercolor{section in head/foot}{bg=template}
 \setbeamercolor{subsection in head/foot}{bg=template!20, fg=template}
@@ -114,7 +117,7 @@
 		\item \textbf{Adaptive short forms}: \emph{Ad-hoc} tests for each person (i.e., Computerized Adaptive Testing, CAT. The items administered to each respondent vary according to the responses that this respondent gave to the previously administered items) $\rightarrow$ the information is maximized for each level of $\theta$ (i.e., each respondent)
 		
 		\begin{quote}
-			\textbf{Issue}: Different short test forms for each respondent $\rightarrow$ Unfair assessments in recruitment or admissions tests
+			\textbf{Issue}: Different short test forms for each respondent $\rightarrow$ Potential fairness issues in assessments for recruitment or admission
 		\end{quote}
 		
 		\item  \textbf{Static short forms}: Static tests equal for all respondents (i.e., only the items from the full-length test that provide the highest information are included in the short form) $\rightarrow$ the information is maximized across $\theta$ levels (i.e., across all respondents)
@@ -148,7 +151,7 @@
 	\end{equation}
 	where $P(\theta)$ is the probability of a respondent with a certain $\theta$ of responding correctly to an item, and $1 - P(\theta)$ is their probability of  responding incorrectly to the same item. The \emph{IIF}s of the items depicted in Figure \ref{sub:icc} are illustrated in Figure \ref{sub:iif}. 
 	
-	The \emph{test information function} (\emph{TIF}) is obtained by summing the IIFs across items (\emph{test information function}, $ \mathit{TIF} = \sum_{s=1}^{S} \mathit{IIF}_s$, Figure \ref{sub:tif}). 
+	The \emph{test information function} (\emph{TIF}) is obtained by summing the IIFs across items ($ \mathit{TIF} = \sum_{s=1}^{S} \mathit{IIF}_s$, Figure \ref{sub:tif}). 
 	
 	\begin{figure}
 		\centering
@@ -189,7 +192,7 @@
 					 	\begin{quote}
 					 		\begin{itemize}
 					 			
-					 			\item \textbf{Cluster}: The latent trait is clustered in $N$ clusters, where $n$ is the number of items to be included in the short form. The centroids of the clusters are the $\theta'$ (Unequal Intervals Procedure, UIP).
+					 			\item \textbf{Cluster}: The latent trait is grouped in $N$ clusters, where $N$ is the number of items to be included in the short form. The centroids of the clusters are the $\theta'$ (Unequal Intervals Procedure, UIP).
 					 			
 					 			\item \textbf{Intervals}: The latent trait is segmented into $N + 1$ intervals. Each interval is defined by $[\theta_{n-1}'; \, \theta_n']$. 
 					 			The $\theta'$s are obtained by averaging between the lower and upper bound of each interval
@@ -274,8 +277,7 @@
 				\item Equal Interval Procedure (EIP)
 				\item Random Procedure (RP)
 			\end{itemize}
-		in the development of 10, 30, 50, 70, 90 items test short forms from a  100-item full-length test \\
-		(For each short test form, RP randomly selects the items 10 times).
+		in the development of 10, 30, 50, 70, 90-item test short forms from a  100-item full-length test 
 			\begin{columns}
 				\begin{column}{.50\linewidth}
 					\begin{center}
@@ -326,7 +328,7 @@
 						
 						\item  Better performance of $\theta$-based procedures on the extreme ends of the distributions
 						
-						\item By considering the $\theta'$ in the item selection procedures $\rightarrow$ not the highest information but best coverage of the entire latent trait
+						\item By considering the $\theta'$ in the item selection procedures $\rightarrow$ not the highest information but the best coverage of the entire latent trait
 					\end{itemize}
 
 				\end{block}

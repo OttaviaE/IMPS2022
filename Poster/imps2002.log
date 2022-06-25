@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  24 JUN 2022 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  25 JUN 2022 10:20
 entering extended mode
 **./imps2002.tex
 (imps2002.tex
@@ -823,6 +823,8 @@ s.sty
 \beamer@footboxes=\count320
 \beamer@footboxsizes=\dimen287
 )
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfonttheme
+structuresmallcapsserif.sty)
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/beamerposter\beamerpos
 ter.sty
 Package: beamerposter 2018/04/23 v.1.13 latex-beamer poster extension
@@ -1751,59 +1753,59 @@ Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 67.
+(hyperref)                removing `\mathsurround' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 67.
+(hyperref)                removing `\z@' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 67.
+(hyperref)                removing `superscript' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 67.
+(hyperref)                removing `\mathsurround' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 67.
+(hyperref)                removing `\z@' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 67.
+(hyperref)                removing `superscript' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 67.
+(hyperref)                removing `\mathsurround' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 67.
+(hyperref)                removing `\z@' on input line 70.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 67.
+(hyperref)                removing `superscript' on input line 70.
 
 (imps2002.aux)
 \openout1 = `imps2002.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1861,7 +1863,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 75.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1875,65 +1877,65 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count363
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
  (imps2002.out) (imps2002.out)
 \@outlinefile=\write5
 \openout5 = `imps2002.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 72.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 75.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 72.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 72.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 72.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 72.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 72.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 72.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 72.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 75.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
-2.
+5.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 7
-2.
+5.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 72.
+ut line 75.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-
 basic-dictionary-English.dict
@@ -1962,122 +1964,133 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (imps2002.nav)
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <8.52> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 75.
+
 <img/unipd.png, id=39, 943.525pt x 949.5475pt>
 File: img/unipd.png Graphic file (type png)
 <use img/unipd.png>
-Package pdftex.def Info: img/unipd.png  used on input line 340.
+Package pdftex.def Info: img/unipd.png  used on input line 342.
 (pdftex.def)             Requested size: 142.26378pt x 143.1649pt.
 
-
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <52.75> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
-LaTeX Font Info:    Calculating math sizes for size <25.44> on input line 340.
+LaTeX Font Info:    Calculating math sizes for size <25.44> on input line 342.
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 340.
+ut line 342.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1math
 kerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-LaTeX Font Info:    Calculating math sizes for size <21.2> on input line 340.
+LaTeX Font Info:    Calculating math sizes for size <21.2> on input line 342.
 <img/qr.png, id=40, 301.125pt x 432.61626pt>
 File: img/qr.png Graphic file (type png)
 <use img/qr.png>
-Package pdftex.def Info: img/qr.png  used on input line 340.
+Package pdftex.def Info: img/qr.png  used on input line 342.
 (pdftex.def)             Requested size: 128.03653pt x 183.9486pt.
-LaTeX Font Info:    Calculating math sizes for size <17.66> on input line 340.
 
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <17.66> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 342.
+
+LaTeX Font Info:    Calculating math sizes for size <17.66> on input line 342.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <17.66> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 340.
+(Font)              using `OT1/cmss/b/it' instead on input line 342.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/it' undefined
-(Font)              using `OT1/cmss/b/n' instead on input line 340.
+(Font)              using `OT1/cmss/b/n' instead on input line 342.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <17.66> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 342.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 340.
+(Font)              using `OT1/cmss/b/it' instead on input line 342.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/it' in size <17.66> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 342.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12.36194> not available
 
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <8.83> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
 <img/bs.pdf, id=46, 1011.78pt x 614.295pt>
 File: img/bs.pdf Graphic file (type pdf)
 <use img/bs.pdf>
-Package pdftex.def Info: img/bs.pdf  used on input line 340.
+Package pdftex.def Info: img/bs.pdf  used on input line 342.
 (pdftex.def)             Requested size: 330.71608pt x 200.79643pt.
 
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.73> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 342.
+
+
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <14.73> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
-LaTeX Font Info:    Calculating math sizes for size <14.73> on input line 340.
+LaTeX Font Info:    Calculating math sizes for size <14.73> on input line 342.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10.31094> not available
 
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <7.36499> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 340.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 342.
 
 
 <img/iifs.pdf, id=47, 1011.78pt x 614.295pt>
 File: img/iifs.pdf Graphic file (type pdf)
 <use img/iifs.pdf>
-Package pdftex.def Info: img/iifs.pdf  used on input line 340.
+Package pdftex.def Info: img/iifs.pdf  used on input line 342.
 (pdftex.def)             Requested size: 330.71608pt x 200.79643pt.
 <img/tif.pdf, id=48, 1011.78pt x 614.295pt>
 File: img/tif.pdf Graphic file (type pdf)
 <use img/tif.pdf>
-Package pdftex.def Info: img/tif.pdf  used on input line 340.
+Package pdftex.def Info: img/tif.pdf  used on input line 342.
 (pdftex.def)             Requested size: 330.71608pt x 200.79643pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 340.
+(Font)              using `OT1/cmss/b/it' instead on input line 342.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 340.
+(Font)              using `OT1/cmss/b/it' instead on input line 342.
 
 <img/info.pdf, id=53, 1011.78pt x 614.295pt>
 File: img/info.pdf Graphic file (type pdf)
 <use img/info.pdf>
-Package pdftex.def Info: img/info.pdf  used on input line 340.
+Package pdftex.def Info: img/info.pdf  used on input line 342.
 (pdftex.def)             Requested size: 734.92963pt x 446.21013pt.
 <img/infoDetails.pdf, id=54, 1011.78pt x 614.295pt>
 File: img/infoDetails.pdf Graphic file (type pdf)
 <use img/infoDetails.pdf>
-Package pdftex.def Info: img/infoDetails.pdf  used on input line 340.
+Package pdftex.def Info: img/infoDetails.pdf  used on input line 342.
 (pdftex.def)             Requested size: 734.92963pt x 446.21013pt.
 <img/BIAS.pdf, id=55, 1011.78pt x 614.295pt>
 File: img/BIAS.pdf Graphic file (type pdf)
 <use img/BIAS.pdf>
-Package pdftex.def Info: img/BIAS.pdf  used on input line 340.
+Package pdftex.def Info: img/BIAS.pdf  used on input line 342.
 (pdftex.def)             Requested size: 734.92963pt x 446.21013pt.
 [1
 
@@ -2102,28 +2115,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27755 strings out of 480236
- 584795 string characters out of 2880084
- 1152850 words of memory out of 3000000
- 43620 multiletter control sequences out of 15000+200000
- 563606 words of font info for 129 fonts, out of 3000000 for 9000
+ 27782 strings out of 480236
+ 585746 string characters out of 2880084
+ 1152403 words of memory out of 3000000
+ 43642 multiletter control sequences out of 15000+200000
+ 565111 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,17n,122p,460b,1284s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 111i,17n,122p,460b,1322s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/huawei/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/huaw
-ei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi17.pfb><C:
-/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmtt12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/symbols/msam10.pfb>
-Output written on imps2002.pdf (1 page, 571891 bytes).
+/cmcsc10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/huaw
+ei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:
+/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
+i17.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmtt12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on imps2002.pdf (1 page, 586524 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
+ 181 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
  191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
