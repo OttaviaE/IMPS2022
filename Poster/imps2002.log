@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  25 JUN 2022 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  29 JUN 2022 21:29
 entering extended mode
 **./imps2002.tex
 (imps2002.tex
@@ -2117,7 +2117,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  27782 strings out of 480236
  585746 string characters out of 2880084
- 1152403 words of memory out of 3000000
+ 1151256 words of memory out of 3000000
  43642 multiletter control sequences out of 15000+200000
  565111 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2135,9 +2135,9 @@ i17.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on imps2002.pdf (1 page, 586524 bytes).
+Output written on imps2002.pdf (1 page, 586799 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
+ 183 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
  191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
