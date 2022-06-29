@@ -200,7 +200,7 @@ dummy = data.frame(all_small[all_small$num_item %in% "all", ])
         legend.position = "top", 
         legend.title = element_blank(), 
         axis.title.x = element_blank(), 
-        axis.title.y = element_text(size = 32),  
+        axis.title.y = element_text(size = 32, face = "italic"),  
         legend.text = element_text(size = 34), 
         strip.text.x = element_text(size = 28)) + ylab("Information") +
   scale_x_discrete(labels =  unique(all_small[!all_small$num_item %in%"all", "num_item"])) +
@@ -236,7 +236,7 @@ ggplot(graph_tif10,
   theme(axis.text.x = element_text(size = 16) ,
         legend.position = "top", 
         legend.title = element_blank(), 
-        axis.title = element_text(size = 32),  
+        axis.title = element_text(size = 32, , face = "italic"),  
         legend.text = element_text(size = 34), 
         strip.text.x = element_text(size = 28)) +xlab(expression(theta)) + 
   facet_wrap(~distribution) + ylab("Information")
